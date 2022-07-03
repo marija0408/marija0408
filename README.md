@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marija0408
-- 👀 I’m interested in Data Science/Machine Learning
+- 👀 I’m interested in Data Science/Machine Learning/Data Engineering
 - 🌱 I’m currently learning Data Engineering on Microsoft Azure
 - 📫 How to reach me: marija0408@gmail.com
 
